@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SisturInfo-PB</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SisturInfo-PB</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_maisvisitados">Locais mais visitados</string>
+    <string name="menu_tools">Configurações</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_send">Sobre</string>
+</resources>
