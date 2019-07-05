@@ -15,7 +15,7 @@
             android:title="@string/menu_tools" />
     </group>
 
-    <item android:title="Comunicação">
+    <item android:title="@string/comunica_o">
         <menu>
             <item
                 android:id="@+id/nav_share"
