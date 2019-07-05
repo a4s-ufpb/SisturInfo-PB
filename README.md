@@ -1,2 +1,2 @@
 # SisturInfo-PB
-Aplicativo em Androide
+Aplicativo em Android
